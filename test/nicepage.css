@@ -41590,53 +41590,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 95px;
-}
-
-.u-header .u-menu-1 {
-  margin: 23px 0 0 auto;
-}
-
-.u-header .u-file-icon-1 {
-  height: 0;
-}
-
-.u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: 0px;
-}
-
-.u-header .u-nav-2 {
-  font-size: 1.25rem;
-}
-
-.u-header .u-image-1 {
-  width: 271px;
-  height: 61px;
-  margin: -39px auto 14px 14px;
-}
-@media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: -39px;
-    margin-left: 14px;
-  }
+  min-height: 48px;
 }
 
 
-@media (max-width: 575px) {
-  .u-header .u-file-icon-1 {
-    padding-left: 25px;
-    padding-right: 25px;
-  }
 
-  .u-header .u-image-1 {
-    margin-bottom: 42px;
-  }
-}
+
  .u-footer {
   background-image: none;
 }
