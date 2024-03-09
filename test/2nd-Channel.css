@@ -1,0 +1,13 @@
+ .u-section-1 {
+  background-image: url("images/City_Vertical3.gif");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+}
