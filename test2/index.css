@@ -1,3 +1,10 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
 body
 {
    background-color: #000000;
@@ -11,7 +18,7 @@ body
    font-size: 13px;
    line-height: 1.1875;
    margin: 0;
-   padding: 0;
+   text-align: center;
 }
 a
 {
@@ -31,31 +38,401 @@ a:hover
    color: #FFDAB9;
    text-decoration: underline;
 }
-#wb_Text1 
+#Table1
+{
+   border-radius: 0px;
+   border: 1px solid #FFFFFF;
+   background-color: #000000;
+   background-image: none;
+   border-collapse: separate;
+   border-spacing: 0px;
+   margin: 0;
+}
+#Table1 td, #Table1 th
+{
+   padding: 1px 1px 1px 1px;
+}
+#Table1 td div
+{
+   white-space: nowrap;
+}
+#Table1 p, #Table1 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#Table1 .cell0
+{
+   background-color: #4F4F4F;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   height: 28px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 19px;
+   line-height: 21px;
+}
+#Table1 .cell1
+{
+   background-color: #4F4F4F;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   height: 28px;
+   color: #FFFFFF;
+   font-family: arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell2
+{
+   background-color: transparent;
+   background-image: url('images/Darkwing Duck - The Last Action Duck.png');
+   background-repeat: no-repeat;
+   background-position: center center;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   width: 24px;
+   height: 18px;
+}
+#Table1 .cell3
+{
+   background-color: #FF0000;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   width: 58px;
+   height: 18px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell4
+{
+   background-color: #32CD32;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   width: 18px;
+   height: 18px;
+}
+#Table1 .cell5
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   width: 18px;
+   height: 18px;
+}
+#Table1 .cell6
 {
    background-color: transparent;
    background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
    text-align: left;
+   vertical-align: middle;
+   height: 18px;
+   color: #FFFFFF;
+   font-family: "Segoe UI";
+   font-size: 12px;
+   line-height: 16px;
 }
-#wb_Text1 div
+#Table2
 {
-   text-align: left;
+   border-radius: 0px;
+   border: 1px solid #FFFFFF;
+   background-color: #000000;
+   background-image: none;
+   border-collapse: separate;
+   border-spacing: 0px;
+   margin: 0;
 }
-#wb_Text1
+#Table2 td, #Table2 th
+{
+   padding: 1px 1px 1px 1px;
+}
+#Table2 td div
+{
+   white-space: nowrap;
+}
+#Table2 p, #Table2 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#Table2 .cell0
+{
+   background-color: #4F4F4F;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   height: 48px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 19px;
+   line-height: 21px;
+}
+#Table2 .cell1
+{
+   background-color: #4F4F4F;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   height: 48px;
+   color: #FFFFFF;
+   font-family: arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table2 .cell2
+{
+   background-color: transparent;
+   background-image: url('images/Darkwing Duck - The Last Action Duck.png');
+   background-repeat: no-repeat;
+   background-position: center center;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   width: 26px;
+   height: 32px;
+}
+#Table2 .cell3
+{
+   background-color: #FF0000;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   width: 62px;
+   height: 32px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table2 .cell4
+{
+   background-color: #32CD32;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   width: 22px;
+   height: 32px;
+}
+#Table2 .cell5
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: center;
+   vertical-align: middle;
+   width: 22px;
+   height: 32px;
+}
+#Table2 .cell6
+{
+   background-color: transparent;
+   background-image: none;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-bottom-width: 0px;
+   border-left-width: 0px;
+   border-top-style: solid;
+   border-right-style: solid;
+   border-bottom-style: solid;
+   border-left-style: solid;
+   border-top-color: #000000;
+   border-right-color: #000000;
+   border-bottom-color: #000000;
+   border-left-color: #000000;
+   text-align: left;
+   vertical-align: middle;
+   height: 32px;
+   color: #FFFFFF;
+   font-family: "Segoe UI";
+   font-size: 12px;
+   line-height: 16px;
+}
+#Table1
 {
    position: absolute;
-   left: 216px;
-   top: 1183px;
-   width: 292px;
-   height: 16px;
+   left: 1px;
+   top: 17px;
+   width: 907px;
+   height: 56px;
    z-index: 0;
 }
-@media only screen and (min-width: 940px) and (max-width: 969px)
+#Table2
 {
+   position: absolute;
+   left: 1px;
+   top: 138px;
+   width: 322px;
+   height: 90px;
+   z-index: 1;
+   visibility: hidden;
+}
+@media only screen and (max-width: 969px)
+{
+div#container
+{
+   width: 340px;
+}
 body
 {
    background-color: #000000;
@@ -64,93 +441,23 @@ body
    background-position: center top;
    background-repeat: repeat-x;
 }
-#wb_Text1
+#Table1
 {
-   left: 216px;
-   top: 1183px;
-   width: 292px;
-   height: 16px;
+   left: 12px;
+   top: 12px;
+   visibility: hidden;
+   display: none;
+   font-size: 13px;
+   font-family: Verdana;
+   font-style: normal;
+   text-decoration: none;
+   border: 1px solid #202020;
+}
+#Table2
+{
+   left: 9px;
+   top: 11px;
    visibility: visible;
-   display: inline;
-}
-#wb_Text1
-{
-   margin: 0;
-   padding: 0;
-}
-}
-@media only screen and (min-width: 720px) and (max-width: 939px)
-{
-body
-{
-   background-color: #000000;
-   background-image: url('images/City_Vertical.gif');
-   background-attachment: fixed;
-   background-position: center top;
-   background-repeat: repeat-x;
-}
-#wb_Text1
-{
-   left: 216px;
-   top: 1183px;
-   width: 292px;
-   height: 16px;
-   visibility: visible;
-   display: inline;
-}
-#wb_Text1
-{
-   margin: 0;
-   padding: 0;
-}
-}
-@media only screen and (min-width: 540px) and (max-width: 719px)
-{
-body
-{
-   background-color: #000000;
-   background-image: url('images/City_Vertical.gif');
-   background-attachment: fixed;
-   background-position: center top;
-   background-repeat: repeat-x;
-}
-#wb_Text1
-{
-   left: 216px;
-   top: 1183px;
-   width: 292px;
-   height: 16px;
-   visibility: visible;
-   display: inline;
-}
-#wb_Text1
-{
-   margin: 0;
-   padding: 0;
-}
-}
-@media only screen and (max-width: 539px)
-{
-body
-{
-   background-color: #000000;
-   background-image: url('images/City_Vertical.gif');
-   background-attachment: fixed;
-   background-position: center top;
-   background-repeat: repeat-x;
-}
-#wb_Text1
-{
-   left: 24px;
-   top: 1068px;
-   width: 292px;
-   height: 16px;
-   visibility: visible;
-   display: inline;
-}
-#wb_Text1
-{
-   margin: 0;
-   padding: 0;
+   display: table;
 }
 }
