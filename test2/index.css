@@ -1,0 +1,47 @@
+body
+{
+   background-color: #000000;
+   background-image: url('images/City_Vertical.gif');
+   background-attachment: fixed;
+   background-position: center top;
+   background-repeat: repeat-x;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+a
+{
+   color: #32CD32;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #008080;
+}
+a:active
+{
+   color: #00FF7F;
+}
+a:hover
+{
+   color: #FFDAB9;
+   text-decoration: underline;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
