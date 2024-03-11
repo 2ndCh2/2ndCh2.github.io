@@ -1,3 +1,23 @@
+a.style1
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a.style1:visited
+{
+   color: #800080;
+   text-decoration: underline;
+}
+a.style1:active
+{
+   color: #FF0000;
+   text-decoration: underline;
+}
+a.style1:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
 h1, .h1
 {
    font-family: Arial;
