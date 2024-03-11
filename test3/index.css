@@ -237,10 +237,6 @@ a:hover
 {
    padding: 1px 1px 1px 1px;
 }
-#Table2 td div
-{
-   white-space: nowrap;
-}
 #Table2 p, #Table2 ul
 {
    margin: 0;
@@ -403,10 +399,7 @@ a:hover
    text-align: left;
    vertical-align: middle;
    height: 32px;
-   color: #FFFFFF;
-   font-family: "Segoe UI";
-   font-size: 12px;
-   line-height: 16px;
+   font-size: 0;
 }
 #Table3
 {
@@ -421,10 +414,6 @@ a:hover
 #Table3 td, #Table3 th
 {
    padding: 1px 1px 1px 1px;
-}
-#Table3 td div
-{
-   white-space: nowrap;
 }
 #Table3 p, #Table3 ul
 {
@@ -449,7 +438,7 @@ a:hover
    border-left-color: #000000;
    text-align: center;
    vertical-align: middle;
-   height: 52px;
+   height: 54px;
    color: #000000;
    font-family: Arial;
    font-size: 19px;
@@ -473,7 +462,7 @@ a:hover
    border-left-color: #000000;
    text-align: center;
    vertical-align: middle;
-   height: 52px;
+   height: 54px;
    color: #FFFFFF;
    font-family: arial;
    font-size: 13px;
@@ -588,10 +577,7 @@ a:hover
    text-align: left;
    vertical-align: middle;
    height: 18px;
-   color: #FFFFFF;
-   font-family: "Segoe UI";
-   font-size: 12px;
-   line-height: 16px;
+   font-size: 0;
 }
 #Table4
 {
@@ -606,10 +592,6 @@ a:hover
 #Table4 td, #Table4 th
 {
    padding: 1px 1px 1px 1px;
-}
-#Table4 td div
-{
-   white-space: nowrap;
 }
 #Table4 p, #Table4 ul
 {
@@ -773,10 +755,7 @@ a:hover
    text-align: left;
    vertical-align: middle;
    height: 18px;
-   color: #FFFFFF;
-   font-family: "Segoe UI";
-   font-size: 12px;
-   line-height: 16px;
+   font-size: 0;
 }
 #wb_Text1 
 {
@@ -792,6 +771,55 @@ a:hover
 {
    text-align: left;
 }
+#wb_Text1
+{
+   display: block;
+   margin: 0;
+   box-sizing: border-box;
+   width: 100%;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text2
+{
+   display: block;
+   margin: 0;
+   box-sizing: border-box;
+   width: 100%;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text3
+{
+   display: block;
+   margin: 0;
+   box-sizing: border-box;
+   width: 100%;
+}
 #Table1
 {
    position: absolute;
@@ -799,7 +827,7 @@ a:hover
    top: 14px;
    width: 907px;
    height: 56px;
-   z-index: 0;
+   z-index: 6;
 }
 #Table3
 {
@@ -807,8 +835,8 @@ a:hover
    left: 198px;
    top: 235px;
    width: 530px;
-   height: 80px;
-   z-index: 2;
+   height: 82px;
+   z-index: 8;
    visibility: hidden;
 }
 #Table2
@@ -818,7 +846,7 @@ a:hover
    top: 138px;
    width: 322px;
    height: 90px;
-   z-index: 1;
+   z-index: 7;
    visibility: hidden;
 }
 #Table4
@@ -828,16 +856,7 @@ a:hover
    top: 148px;
    width: 908px;
    height: 56px;
-   z-index: 3;
-}
-#wb_Text1
-{
-   position: absolute;
-   left: 68px;
-   top: 281px;
-   width: 234px;
-   height: 16px;
-   z-index: 4;
+   z-index: 9;
 }
 @media only screen and (min-width: 540px) and (max-width: 969px)
 {
@@ -888,8 +907,6 @@ body
 {
    left: 1px;
    top: 17px;
-   visibility: hidden;
-   display: none;
    font-size: 8px;
    font-family: Arial;
    font-style: normal;
@@ -898,14 +915,30 @@ body
 }
 #wb_Text1
 {
-   left: 68px;
-   top: 281px;
-   width: 234px;
-   height: 16px;
    visibility: visible;
-   display: inline;
+   display: block;
 }
 #wb_Text1
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text2
+{
+   visibility: visible;
+   display: block;
+}
+#wb_Text2
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text3
+{
+   visibility: visible;
+   display: block;
+}
+#wb_Text3
 {
    margin: 0;
    padding: 0;
@@ -960,8 +993,6 @@ body
 {
    left: 12px;
    top: 12px;
-   visibility: hidden;
-   display: none;
    font-size: 13px;
    font-family: Verdana;
    font-style: normal;
@@ -970,14 +1001,30 @@ body
 }
 #wb_Text1
 {
-   left: 68px;
-   top: 281px;
-   width: 234px;
-   height: 16px;
    visibility: visible;
-   display: inline;
+   display: block;
 }
 #wb_Text1
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text2
+{
+   visibility: visible;
+   display: block;
+}
+#wb_Text2
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text3
+{
+   visibility: visible;
+   display: block;
+}
+#wb_Text3
 {
    margin: 0;
    padding: 0;
