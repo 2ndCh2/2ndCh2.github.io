@@ -1,0 +1,372 @@
+{
+  "vaultName": "2nd Channel",
+  "lastExport": 1726289044790,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon is-focused",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Личное 🗂️/🇦🇿 На азербайджанском/🍎 Фразы.md",
+    "Личное 🗂️/🇦🇿 На азербайджанском/🍏 Перевод.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣0️⃣ 🪙 Всего.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣1️⃣ ❄️ Январь.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣2️⃣ ⛄️ Февраль.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣3️⃣ 🔅 Март.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣4️⃣ 🎈 Апрель.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣5️⃣ 🌿 Май.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣6️⃣ 👟 Июнь.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣7️⃣ 📅 Июль.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣8️⃣ 🍉 Август.md",
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣9️⃣ 🍃 Сентябрь.md",
+    "Личное 🗂️/❌ Больше не нужно/Сообщение Мальвине.md",
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/💰 Финансы/🐉 Доход-расход 2024.md",
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/💰 Финансы/🐉 Траты 2024.md",
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/💰 Финансы/💳 Банковская карта.md",
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/💵 Оплата.md",
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/Азеришыг.md",
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/Газ новый.md",
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/Газ с новым счетчиком.md",
+    "Личное 🗂️/📁 Быстрые заметки/🏫 Школы.md",
+    "Личное 🗂️/📁 Быстрые заметки/Автобусы в Сумгаит.md",
+    "Личное 🗂️/📁 Быстрые заметки/Дом тети Гюльшен не 36-ой ли.md",
+    "Личное 🗂️/📁 Быстрые заметки/Зоомагазин - Поликлиника.md",
+    "Личное 🗂️/📁 Быстрые заметки/Лэйс сыр.md",
+    "Личное 🗂️/📁 Быстрые заметки/Полоскать рот после лечения зубов.md",
+    "Личное 🗂️/📁 Быстрые заметки/Сайт через Obsidian.md",
+    "Личное 🗂️/🗓 Календарь/🐉 2024/🍃 Сентябрь.md",
+    "Личное 🗂️/✂️ Парикмахеры.md",
+    "Личное 🗂️/🎧 Вспомнившиеся песни.md",
+    "Личное 🗂️/🎧 Грустно - Спокойно.md",
+    "Личное 🗂️/🎨 Цвета.md",
+    "Личное 🗂️/🎮 Хотелось самому сыграть.md",
+    "Личное 🗂️/📺 IPTV.md",
+    "Личное 🗂️/🪪 Отчёт.md",
+    "Личное 🗂️/😀 Эмодзи.md",
+    "Личное 🗂️/🛠 Системное для Obsidian.md",
+    "Личное 🗂️/Готовность армии против тупого и пошлого контента!.md",
+    "Личное 🗂️/Плеер.md",
+    "Личное 🗂️/Скачать данные Google.md",
+    "Личное 🗂️/🛜 Ссылки.md",
+    "Z9-Склад 🛑/🔵📋 Ближайшие дела.md",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Личное 🗂️/🇦🇿 На азербайджанском/🍎 Фразы.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 198,
+      "exportedPath": "личное-🗂️/🇦🇿-на-азербайджанском/🍎-фразы.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🇦🇿 На азербайджанском/🍏 Перевод.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 22502,
+      "exportedPath": "личное-🗂️/🇦🇿-на-азербайджанском/🍏-перевод.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣0️⃣ 🪙 Всего.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 513,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣0️⃣-🪙-всего.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣1️⃣ ❄️ Январь.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 430,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣1️⃣-❄️-январь.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣2️⃣ ⛄️ Февраль.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 311,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣2️⃣-⛄️-февраль.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣3️⃣ 🔅 Март.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 286,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣3️⃣-🔅-март.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣4️⃣ 🎈 Апрель.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 597,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣4️⃣-🎈-апрель.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣5️⃣ 🌿 Май.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 482,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣5️⃣-🌿-май.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣6️⃣ 👟 Июнь.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 430,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣6️⃣-👟-июнь.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣7️⃣ 📅 Июль.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 336,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣7️⃣-📅-июль.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣8️⃣ 🍉 Август.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 750,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣8️⃣-🍉-август.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/🐉 Траты - 2024/0️⃣9️⃣ 🍃 Сентябрь.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 74,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/🐉-траты-2024/0️⃣9️⃣-🍃-сентябрь.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/❌ Больше не нужно/Сообщение Мальвине.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 2098,
+      "exportedPath": "личное-🗂️/❌-больше-не-нужно/сообщение-мальвине.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/💰 Финансы/🐉 Доход-расход 2024.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 2810,
+      "exportedPath": "личное-🗂️/💲-финансы-и-коммунальная-сфера/💰-финансы/🐉-доход-расход-2024.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/💰 Финансы/🐉 Траты 2024.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 4591,
+      "exportedPath": "личное-🗂️/💲-финансы-и-коммунальная-сфера/💰-финансы/🐉-траты-2024.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/💰 Финансы/💳 Банковская карта.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 178,
+      "exportedPath": "личное-🗂️/💲-финансы-и-коммунальная-сфера/💰-финансы/💳-банковская-карта.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/💵 Оплата.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 379,
+      "exportedPath": "личное-🗂️/💲-финансы-и-коммунальная-сфера/💵-оплата.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/Азеришыг.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 104,
+      "exportedPath": "личное-🗂️/💲-финансы-и-коммунальная-сфера/азеришыг.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/Газ новый.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 93,
+      "exportedPath": "личное-🗂️/💲-финансы-и-коммунальная-сфера/газ-новый.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/💲 Финансы и коммунальная сфера/Газ с новым счетчиком.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 66,
+      "exportedPath": "личное-🗂️/💲-финансы-и-коммунальная-сфера/газ-с-новым-счетчиком.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/📁 Быстрые заметки/🏫 Школы.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 120,
+      "exportedPath": "личное-🗂️/📁-быстрые-заметки/🏫-школы.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/📁 Быстрые заметки/Автобусы в Сумгаит.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 130,
+      "exportedPath": "личное-🗂️/📁-быстрые-заметки/автобусы-в-сумгаит.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/📁 Быстрые заметки/Дом тети Гюльшен не 36-ой ли.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 49,
+      "exportedPath": "личное-🗂️/📁-быстрые-заметки/дом-тети-гюльшен-не-36-ой-ли.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/📁 Быстрые заметки/Зоомагазин - Поликлиника.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 17,
+      "exportedPath": "личное-🗂️/📁-быстрые-заметки/зоомагазин-поликлиника.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/📁 Быстрые заметки/Лэйс сыр.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 15,
+      "exportedPath": "личное-🗂️/📁-быстрые-заметки/лэйс-сыр.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/📁 Быстрые заметки/Полоскать рот после лечения зубов.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 81,
+      "exportedPath": "личное-🗂️/📁-быстрые-заметки/полоскать-рот-после-лечения-зубов.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/📁 Быстрые заметки/Сайт через Obsidian.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 166,
+      "exportedPath": "личное-🗂️/📁-быстрые-заметки/сайт-через-obsidian.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🗓 Календарь/🐉 2024/🍃 Сентябрь.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 167,
+      "exportedPath": "личное-🗂️/🗓-календарь/🐉-2024/🍃-сентябрь.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/✂️ Парикмахеры.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 237,
+      "exportedPath": "личное-🗂️/✂️-парикмахеры.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🎧 Вспомнившиеся песни.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 1798,
+      "exportedPath": "личное-🗂️/🎧-вспомнившиеся-песни.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🎧 Грустно - Спокойно.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 2132,
+      "exportedPath": "личное-🗂️/🎧-грустно-спокойно.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🎨 Цвета.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 124,
+      "exportedPath": "личное-🗂️/🎨-цвета.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🎮 Хотелось самому сыграть.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 42,
+      "exportedPath": "личное-🗂️/🎮-хотелось-самому-сыграть.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/📺 IPTV.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 456,
+      "exportedPath": "личное-🗂️/📺-iptv.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🪪 Отчёт.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 340,
+      "exportedPath": "личное-🗂️/🪪-отчёт.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/😀 Эмодзи.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 503,
+      "exportedPath": "личное-🗂️/😀-эмодзи.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🛠 Системное для Obsidian.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 484,
+      "exportedPath": "личное-🗂️/🛠-системное-для-obsidian.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/Готовность армии против тупого и пошлого контента!.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 2311,
+      "exportedPath": "личное-🗂️/готовность-армии-против-тупого-и-пошлого-контента!.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/Плеер.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 144,
+      "exportedPath": "личное-🗂️/плеер.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/Скачать данные Google.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 28,
+      "exportedPath": "личное-🗂️/скачать-данные-google.html",
+      "dependencies": []
+    },
+    "Личное 🗂️/🛜 Ссылки.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 388,
+      "exportedPath": "личное-🗂️/🛜-ссылки.html",
+      "dependencies": []
+    },
+    "Z9-Склад 🛑/🔵📋 Ближайшие дела.md": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 1189,
+      "exportedPath": "z9-склад-🛑/🔵📋-ближайшие-дела.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 130164,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 19952,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 311,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 2428,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1726289044790,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
