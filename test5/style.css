@@ -12,7 +12,7 @@ body::before {
   inset: 0;
   z-index: -1;
 
-  background-image: url("bg.gif");
+  background-image: url("https://2ndch2.github.io/test5/City_Vertical.gif");
   background-repeat: repeat-x;
   background-size: auto 720px;
   background-position: top left;
