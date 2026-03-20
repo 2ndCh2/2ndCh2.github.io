@@ -3,28 +3,93 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Главная</title>
-<link rel="stylesheet" href="style.css">
+<title>Пример страниц</title>
+<style>
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  font-family: sans-serif;
+  min-height: 100%;
+}
+
+/* фон */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+
+  background-image: url("https://2ndch2.github.io/test5/City_Vertical.gif");
+  background-repeat: repeat-x;
+  background-size: auto 720px;
+  background-position: top left;
+
+  filter: blur(4px) sepia(0.4) brightness(0.9);
+}
+
+/* меню */
+.menu {
+  position: sticky;
+  top: 0;
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(6px);
+  z-index: 1;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+}
+
+/* контейнер с контентом */
+.container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  z-index: 1;
+  position: relative;
+}
+
+/* плашки */
+.card {
+  background: rgba(255,255,255,0.85);
+  padding: 20px;
+  border-radius: 12px;
+  backdrop-filter: blur(6px);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+</style>
 </head>
 <body>
 
-<nav class="menu">
+<div class="menu">
   <a href="index.html">Главная</a>
-  <a href="project.html">Проект</a>
-</nav>
+  <a href="page2.html">Страница 2</a>
+</div>
 
-<main class="container">
+<div class="container">
   <div class="card">
-    <h1>Главная</h1>
-    <p>Текст плашки</p>
-    <img src="https://via.placeholder.com/400x200">
+    <h2>Приветствие</h2>
+    <p>Это пример плашки с текстом поверх фоновой GIF-картинки.</p>
+    <img src="https://2ndch2.github.io/test5/sample1.jpg" alt="Пример картинки">
   </div>
 
   <div class="card">
-    <h2>Блок</h2>
-    <p>Ещё текст</p>
+    <h2>Дополнительная информация</h2>
+    <p>Еще одна плашка с текстом и картинкой.</p>
+    <img src="https://2ndch2.github.io/test5/sample2.jpg" alt="Пример картинки">
   </div>
-</main>
+</div>
 
 </body>
 </html>
