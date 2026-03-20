@@ -1,0 +1,59 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  font-family: sans-serif;
+}
+
+/* фон */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+
+  background-image: url("bg.gif");
+  background-repeat: repeat-x;
+  background-size: auto 720px;
+  background-position: top left;
+
+  filter: blur(4px) sepia(0.4) brightness(0.9);
+}
+
+/* меню */
+.menu {
+  position: sticky;
+  top: 0;
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(6px);
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+}
+
+/* контент */
+.container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+/* плашки */
+.card {
+  background: rgba(255,255,255,0.85);
+  padding: 20px;
+  border-radius: 12px;
+  backdrop-filter: blur(6px);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 10px;
+}
